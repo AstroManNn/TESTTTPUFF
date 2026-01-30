@@ -11,7 +11,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // 👇 ВСТАВЬ СВОЮ ССЫЛКУ!
-const SERVER_URL = 'https://ytiiiipuff-production.up.railway.app'; 
+const SERVER_URL = 'https://testttpuff-production.up.railway.app'; 
 
 app.use(cors());
 app.use(express.json());
